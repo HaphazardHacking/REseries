@@ -1,0 +1,1 @@
+A bunch of files make for use with my Reverse Engineering series over at haphazardhacking.co.uk
